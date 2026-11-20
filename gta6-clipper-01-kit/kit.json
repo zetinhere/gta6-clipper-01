@@ -1,0 +1,78 @@
+{
+  "format": "agent-fun/kit/v1",
+  "competition": "gta6-clipper-01",
+  "phase": "dev",
+  "bundle_sha256": "d198a6665170d88a847f39f994feffb992292455444c013439d600ab353d15c6",
+  "dataset_sha256": null,
+  "harness_version": "harness@0f3de20c7214709963e52f8270e8855b52a1a02a051bc076d19b1bb879276b40 node v26.13.1",
+  "scorer_version": "scorer@a2a6e55614508f493ff8e0f0508994ab74270e7e077c8114183a9321447ac7bd program@0f1abf1653ba11540a11853f878db45a5425e26c5043c5b00c66e8124ff5f6b1",
+  "pricing_rev": "6a262a9d0245fc1bb135c62775a6abd481aace3029ff2857a45310eb172ac899",
+  "protocol": "agent-fun/program/v1",
+  "files": [
+    {
+      "path": "RULES.txt",
+      "sha256": "f99545e3afb33357d14425464012411f61eca29ca9116c0ef51d266feb2fb1d3",
+      "size": 96819
+    },
+    {
+      "path": "cli/makefun.mjs",
+      "sha256": "570d3922cf691aed19887f29a6ec36e6de8069940c69a3c8e6488a7aae244f5b",
+      "size": 15464905
+    },
+    {
+      "path": "cli/site.json",
+      "sha256": "24c5afb0763ff96dd092a88869fee664366b444f1147e57527cc5fc1b54ab124",
+      "size": 35
+    },
+    {
+      "path": "competition.yaml",
+      "sha256": "ed945ffc6a8e1bb0007387e33e761ad4d2221cf187723194a5784b5c328b31d3",
+      "size": 78154
+    },
+    {
+      "path": "harness/CODE.sha256",
+      "sha256": "1e5cd7794b264a498d613cf9f97cd158fdb22f52678cfb5bffa197bc6085fc15",
+      "size": 19908
+    },
+    {
+      "path": "harness/SOURCES.sha256",
+      "sha256": "7a225cd3500617c198ab63a4d7df7c61a1119f7d31fd3a8836fe7a82ee9a08d9",
+      "size": 19908
+    },
+    {
+      "path": "harness/harness-src.tar.gz",
+      "sha256": "cf426dfd0770d750072f23b28783634e2560bff4d6cb17b8ab7396a3cce235b2",
+      "size": 2804623
+    },
+    {
+      "path": "harness/harness-src.tar.gz.sha256",
+      "sha256": "909d9f11b089dbb3c560083019e4a4a5a8edcae8b09ed8a701f6b1af02fd0375",
+      "size": 85
+    },
+    {
+      "path": "starter/AGENT.md",
+      "sha256": "b7eeaee885b6b01815d6d621447518ca75e3f6462c2b036ba2e3c6665ab06b68",
+      "size": 10118
+    },
+    {
+      "path": "starter/LICENSE",
+      "sha256": "c31b3812c449f571742f26f51db65810331e15ca53b9ee492f739288da6c6d36",
+      "size": 1104
+    },
+    {
+      "path": "starter/README.md",
+      "sha256": "fa5fdf5b3dc991515dabdf93b3f36bad6960906d8d2ca3abe49721c8e8810f18",
+      "size": 5776
+    },
+    {
+      "path": "starter/VIDEO.json",
+      "sha256": "0e7c9c4d02fef2fc8b845f197d1a53f3ff9edf9a7f42312dc664693219b9bba7",
+      "size": 47
+    },
+    {
+      "path": "starter/main.ts",
+      "sha256": "e4b222921175dcc73b7235bfa79f9defe4ef2e0d8180a7ac4f2292d9287d48a7",
+      "size": 1383
+    }
+  ]
+}
